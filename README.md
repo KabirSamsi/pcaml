@@ -9,3 +9,5 @@ It takes a language which is primarily procedural (albeit with functional integr
 - **Variant/'Sum' Types**
 - **Options**
 - **Higher-Order Functions (Map/Filter/Fold, Currying, Pipelining)**
+
+This environment is simulated through a system similar to the `utop` environment used in OCaml.
